@@ -1,16 +1,27 @@
-## Hi there 👋
+## 🛠 My Tools
 
-<!--
-**Nightmeros/Nightmeros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎨 Front-end
+![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111?style=for-the-badge&logo=bootstrap)
+![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Back-end
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk)
+![CSharp](https://img.shields.io/badge/C%23-111?style=for-the-badge&logo=csharp)
+![Laravel](https://img.shields.io/badge/Laravel-111?style=for-the-badge&logo=laravel)
+![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php)
+
+---
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)
+
+---
+
+### 🎨 Design & Modelagem
+![Figma](https://img.shields.io/badge/Figma-111?style=for-the-badge&logo=figma)
