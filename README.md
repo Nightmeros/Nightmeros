@@ -6,7 +6,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-111?style=for-the-badge&logo=bootstrap)
 ![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
 
----
+
 
 ### ⚙️ Back-end
 ![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
@@ -15,13 +15,12 @@
 ![Laravel](https://img.shields.io/badge/Laravel-111?style=for-the-badge&logo=laravel)
 ![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php)
 
----
 
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)
 
----
+
 
 ### 🎨 Design & Modelagem
 ![Figma](https://img.shields.io/badge/Figma-111?style=for-the-badge&logo=figma)
